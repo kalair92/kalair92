@@ -130,7 +130,7 @@ An E-Commerce website is an online platform that enables businesses to sell prod
 
 ### Setting Up the Environment for Development
 
-*Install a local development environment with a web server (e.g.,* Nginx*) and PHP*
+*Install a local development environment with a web server (e.g.,* Nginx\*) and PHP\*
 
 ### **Installing** Nginx **and PHP on an Ubuntu 20.04**
 
@@ -183,3 +183,5 @@ sudo systemctl restart nginx
 </div>
 
 ### `E-commerce development involves a substantial process, which is why I'm breaking it down into a series to provide a comprehensive understanding. Our next topic focuses on designing the database structure.`
+
+[Moving Forward: Data Relationships and Database Creation for Ecommerce](https://kalair92.hashnode.dev/data-relationships-and-database-creation-for-ecommerce)

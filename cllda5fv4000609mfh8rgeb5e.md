@@ -1,10 +1,10 @@
 ---
-title: "Data Relationships and Database Creation for Ecommerce"
+title: "Data Relationships and Ecommerce Database Creation"
 seoTitle: "Ecommerce Database: Optimal Structure & Relationships"
 seoDescription: "Build a fundamental ecommerce database: Organize products, orders & customers smartly. Learn vital techniques for efficient data management"
 datePublished: Wed Aug 16 2023 05:16:25 GMT+0000 (Coordinated Universal Time)
 cuid: cllda5fv4000609mfh8rgeb5e
-slug: data-relationships-and-database-creation-for-ecommerce
+slug: data-relationships-and-ecommerce-database-creation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692009484984/1fd7c7e6-0f02-49bc-bb8b-bcf52405bb16.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692162648534/f7b0b909-4a44-46d3-9ff9-335499801abf.jpeg
 tags: ecommerce, databases, ecommerce-development, ecommerce-website-development
